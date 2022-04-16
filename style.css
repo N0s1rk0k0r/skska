@@ -1,0 +1,27 @@
+body{
+background-color:lightcoral;
+text-align:center;
+}
+
+#confidence{
+   font-size: 25px; 
+}
+
+#yoursketch{
+    font-size: 25px; 
+ }
+
+ #stbd{
+    font-size: 25px;
+    text-decoration-color: rgb(197, 39, 39); 
+ }
+
+ #score{
+    font-size: 20px; 
+    float: right;
+ }
+
+ #timer{
+    font-size: 20px;  
+    float: left;
+ }
